@@ -68,8 +68,8 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/infinity/proprietary/vendor/bin/mnld:system/vendor/bin/mnld \
     vendor/mediatek/infinity/proprietary/vendor/bin/msensord:system/vendor/bin/msensord \
     vendor/mediatek/infinity/proprietary/vendor/bin/mtk_agpsd:system/vendor/bin/mtk_agpsd \
-    vendor/mediatek/infinity/proprietary/vendor/bin/mtkrild:system/vendor/bin/mtkrild \
     vendor/mediatek/infinity/proprietary/vendor/bin/mtkrildmd2:system/vendor/bin/mtkrildmd2 \
+    vendor/mediatek/infinity/proprietary/vendor/bin/mtkrild:system/vendor/bin/mtkrild \
     vendor/mediatek/infinity/proprietary/vendor/bin/muxreport:system/vendor/bin/muxreport \
     vendor/mediatek/infinity/proprietary/vendor/bin/netdiag:system/vendor/bin/netdiag \
     vendor/mediatek/infinity/proprietary/vendor/bin/nvram_agent_binder:system/vendor/bin/nvram_agent_binder \
@@ -315,6 +315,7 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/infinity/proprietary/vendor/lib/libvp8dec_sa.ca7.so:system/vendor/lib/libvp8dec_sa.ca7.so \
     vendor/mediatek/infinity/proprietary/vendor/lib/libvp8enc_sa.ca7.so:system/vendor/lib/libvp8enc_sa.ca7.so \
     vendor/mediatek/infinity/proprietary/vendor/lib/libvp9dec_sa.ca7.so:system/vendor/lib/libvp9dec_sa.ca7.so \
+    vendor/mediatek/infinity/proprietary/vendor/lib/libwapi.so:system/vendor/lib/libwapi.so \
     vendor/mediatek/infinity/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/mediatek/infinity/proprietary/vendor/lib/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so \
     vendor/mediatek/infinity/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
