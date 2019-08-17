@@ -22,10 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek/infinity/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/mediatek/infinity/proprietary/lib/libMTKAudioTimeStretch.so:system/lib/libMTKAudioTimeStretch.so \
     vendor/mediatek/infinity/proprietary/lib/liba3m.so:system/lib/liba3m.so \
-    vendor/mediatek/infinity/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
-    vendor/mediatek/infinity/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-    vendor/mediatek/infinity/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-    vendor/mediatek/infinity/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/mediatek/infinity/proprietary/lib/libfs_mgr.so:system/lib/libfs_mgr.so \
     vendor/mediatek/infinity/proprietary/lib/libja3m.so:system/lib/libja3m.so \
     vendor/mediatek/infinity/proprietary/lib/libm.so:system/lib/libm.so \
